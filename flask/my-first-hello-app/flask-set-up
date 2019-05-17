@@ -1,0 +1,11 @@
+echo "Assuming Python and pip are setup"
+
+python --version
+
+sleep 2
+
+pip --version
+
+sleep 2
+
+sudo pip install Flask
